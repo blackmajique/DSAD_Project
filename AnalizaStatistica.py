@@ -1,3 +1,4 @@
+
 import pandas as pd
 
 file_path = "./dataIN/lifestyle_studenti_data.xlsx"
